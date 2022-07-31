@@ -1,0 +1,26 @@
+.container {
+  background-color: rgb(202, 192, 177);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+#p1 {
+  color: rgb(255, 0, 0);
+  font-family: "Courier New", Courier, monospace;
+  font-size: small;
+  text-transform: uppercase;
+}
+
+#p2 {
+  color: rgba(255, 0, 0, 128);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  text-decoration: underline;
+}
+
+#p3 {
+  color: red;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
